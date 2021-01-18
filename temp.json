@@ -1,4 +1,8 @@
 {
     "reason": "try to trigger a build",
     "Attempt": 5
+},
+{
+    "reason": "Pipeline Check",
+    "Attempt": 1
 }
